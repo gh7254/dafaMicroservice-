@@ -12,7 +12,7 @@
 	<artifactId>eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>eureka</name>
-	<description>eureka server</description>
+	<description>Eureka Server</description>
 	<url/>
 	<licenses>
 		<license/>
