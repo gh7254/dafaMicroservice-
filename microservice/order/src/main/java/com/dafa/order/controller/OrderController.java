@@ -49,7 +49,7 @@ public class OrderController {
 
     @PostMapping
     public Order createOrder(@RequestBody Order order) {
-        return orderService.creatOrder(order);
+        return orderService.createOrder(order);
     }
 
     @DeleteMapping("/{id}")
