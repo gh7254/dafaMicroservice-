@@ -1,0 +1,5 @@
+com\dafa\produk\model\Produk.class
+com\dafa\produk\ProdukApplication.class
+com\dafa\produk\controller\ProdukController.class
+com\dafa\produk\repository\ProdukRepository.class
+com\dafa\produk\service\ProdukService.class
