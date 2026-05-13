@@ -26,7 +26,7 @@ public class ConsumerService {
             MimeMessageHelper helper = new MimeMessageHelper(mimeMessage, true);
 
             helper.setFrom("dafadaifullah54@gmail.com");
-            helper.setTo("dafadaifullah72@gmail.com");
+            helper.setTo("ervan@pnp.ac.id");
             helper.setSubject("Order Baru Masuk");
             text = text.replace("Order{", "").replace("}", "");
             String[] data = text.split(",");
@@ -74,7 +74,7 @@ public class ConsumerService {
                     "</table>" +
 
                     "<br><br>" +
-                    "<p>Terima kasih sudah order di Raka Store<br>" +
+                    "<p>Terima kasih sudah order di dafa Store<br>" +
                     "<br>" +
                     "Teknik Komputer 2B</p>" +
 
