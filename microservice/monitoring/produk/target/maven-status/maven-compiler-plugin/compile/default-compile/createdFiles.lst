@@ -1,0 +1,5 @@
+com\raka\produk\ProdukApplication.class
+com\raka\produk\model\Produk.class
+com\raka\produk\controller\ProdukController.class
+com\raka\produk\repository\ProdukRepository.class
+com\raka\produk\service\ProdukService.class
